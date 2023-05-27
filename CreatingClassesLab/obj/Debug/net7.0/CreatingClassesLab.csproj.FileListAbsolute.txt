@@ -1,0 +1,15 @@
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\bin\Debug\net7.0\CreatingClassesLab.exe
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\bin\Debug\net7.0\CreatingClassesLab.deps.json
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\bin\Debug\net7.0\CreatingClassesLab.runtimeconfig.json
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\bin\Debug\net7.0\CreatingClassesLab.dll
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\bin\Debug\net7.0\CreatingClassesLab.pdb
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\obj\Debug\net7.0\CreatingClassesLab.csproj.AssemblyReference.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\obj\Debug\net7.0\CreatingClassesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\obj\Debug\net7.0\CreatingClassesLab.AssemblyInfoInputs.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\obj\Debug\net7.0\CreatingClassesLab.AssemblyInfo.cs
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\obj\Debug\net7.0\CreatingClassesLab.csproj.CoreCompileInputs.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\obj\Debug\net7.0\CreatingClassesLab.dll
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\obj\Debug\net7.0\refint\CreatingClassesLab.dll
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\obj\Debug\net7.0\CreatingClassesLab.pdb
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\obj\Debug\net7.0\CreatingClassesLab.genruntimeconfig.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\CreatingClassesLab\obj\Debug\net7.0\ref\CreatingClassesLab.dll
